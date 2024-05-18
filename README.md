@@ -4,6 +4,14 @@
 
 This React application serves as a comprehensive and visually appealing portfolio showcasing my skills and experience. Built with a focus on modern web development trends, it leverages the power of various technologies to provide an interactive and informative user experience.
 
+**Screenshots**
+
+![](screenshots/pasted_image_0.png)
+![](screenshots/pasted_image_1.png)
+![](screenshots/pasted_image_4.png)
+![](screenshots/pasted_image_2.png)
+![](screenshots/pasted_image_3.png)
+
 **Key Features:**
 
 * **React Framework:** Employs React for building dynamic and reusable components, ensuring a performant and adaptable website.
