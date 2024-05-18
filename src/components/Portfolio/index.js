@@ -28,7 +28,7 @@ const Portfolio = () => {
                     console.log(portfolio)
                     setIsLoading(false);
                 })();
-    },[]);
+    });
 
 
 
