@@ -36,6 +36,7 @@ const Home = () => {
           Frontend Developer / Python Expert
         </h2>
         <Link to="/contact" className="flat-button" >CONTACT ME</Link>
+        <Link to="/contact" className="flat-button" > CV</Link>
       </div>
       <Logo />
     </div>
