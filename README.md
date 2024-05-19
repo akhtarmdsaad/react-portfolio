@@ -59,25 +59,6 @@ This React application serves as a comprehensive and visually appealing portfoli
 
 This website is currently deployed and accessible at [Netlify](https://master--elegant-fox-2ea226.netlify.app/).
 
-## Contribution
-
-We welcome contributions to this project! Here's how you can get involved:
-
-* **Fork the Repository:** Create a copy of the repository on your GitHub account using the "Fork" button.
-* **Clone your Fork:** Clone your forked repository to your local machine.
-* **Make Changes:** Make your desired changes to the codebase.
-* **Update CONTRIBUTING.md**: Add your name in `CONTRIBUTING.md` file.
-* **Commit your Changes:** Commit your changes locally with a descriptive commit message.
-* **Push your Changes:** Push your changes to your forked repository on GitHub.
-* **Create a Pull Request:** Create a pull request from your forked repository to the main repository.
-* **Review and Discussion:** We will review your pull request and discuss any necessary changes before merging it into the main branch.
-
-**Before submitting a pull request:**
-
-* Please ensure your code adheres to the project's coding style and conventions.
-* Consider writing unit tests for your changes to ensure code quality.
-
-
 ## Development
 
 This project welcomes developers of all levels to contribute and learn. Here are some pointers to get you started:
